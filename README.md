@@ -2,6 +2,8 @@
 
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
 
+## GitHub page
+Your site is live at [GitHub Page](https://devcodepush.github.io/FAQ-accordion/) 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
