@@ -1,9 +1,12 @@
+import questionsAndAnswers from './faq-data.js';
+
+
 document.addEventListener("DOMContentLoaded", function () {
     // Creating elements dynamically
     const h1 = document.createElement("h1");
     h1.textContent = "FAQs";
   
-    const questionsAndAnswers = [
+    /* const questionsAndAnswers = [
       {
         question: "What is Frontend Mentor, and how will it help me?",
         answer:
@@ -24,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
         answer:
           "The best place to get help is inside Frontend Mentor's Discord community. There's a help channel where you can ask questions and seek support from other community members.",
       },
-    ];
+    ]; */
   
     // Creating and appending elements for each question and answer
     questionsAndAnswers.forEach(function (item) {
